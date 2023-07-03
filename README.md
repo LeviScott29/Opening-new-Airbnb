@@ -4,3 +4,7 @@ analysis of Airbnb pricing and business flow for opening a new house using Table
 ![visualization] (./Images/Airbnb.png)
 
 (./Airbnb.png)
+
+(/Airbnb.png)
+
+(/Images/Airbnb.png)
