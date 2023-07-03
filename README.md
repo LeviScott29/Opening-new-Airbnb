@@ -1,4 +1,6 @@
 # Opening-new-Airbnb
 analysis of Airbnb pricing and business flow for opening a new house using Tableau
 
-![visualization] (Images/Airbnb.png)
+![visualization] (./Images/Airbnb.png)
+
+(./Airbnb.png)
